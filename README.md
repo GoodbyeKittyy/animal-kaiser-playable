@@ -1,4 +1,5 @@
 # 🦁 Animal Kaiser – PC Playable Setup
+<img width="540" height="360" alt="image" src="https://github.com/user-attachments/assets/40efcb0b-98b6-4d27-babf-284153f92e8e" />
 
 A fan-preservation project for playing **Animal Kaiser** (Ver 1–6) and **Animal Kaiser Evolution** (Evo 1–8) on PC using the [Play! PS2/Arcade Emulator](https://github.com/jpd002/Play-) and the [AK Card Scanner](https://github.com/Gama-Tech/AK-Card-Scanner-Releases).
 
