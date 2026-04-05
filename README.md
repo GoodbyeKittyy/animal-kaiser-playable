@@ -172,4 +172,4 @@ If the game runs slowly, apply the following fixes:
 
 ## ⚠️ Disclaimer
 
-This repository is for **preservation and archival purposes only**. No copyrighted ROM files are included or distributed. You must supply your own legally obtained ROMs.
+This repository is for **preservation and archival purposes only**.
