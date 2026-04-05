@@ -60,13 +60,12 @@ Animal Kaiser Playable/
 
 1. Open `Documents\Play Data Files\` and navigate to the `arcaderoms` folder.
 2. Create two subfolders inside `arcaderoms`:
-   - `kaiser`
-   - `kaievo`
+   - `akaiser`
+   - `akaievo`
 3. Copy the ROM files from the `ROMS/` folder into the corresponding folders:
    - Copy `kp005a_ana1004-na-b.ic26` → `arcaderoms/kaiser/`
    - Copy `kp012b_k9k8g08u0b.ic31` → `arcaderoms/kaievo/`
-
-> The `.zip` files (`akaiser.zip`, `akaievo.zip`) should remain in the `ROMS/` subfolders alongside the `.ic26`/`.ic31` files.
+   - The `.zip` files (`akaiser.zip`, `akaievo.zip`) should also be copied to the respective     `arcaderoms/` subfolders alongside the `.ic26`/`.ic31` files.
 
 ---
 
@@ -74,7 +73,7 @@ Animal Kaiser Playable/
 
 1. Open **Play!** and go to **Options > Settings > General**.
 2. Enable **Arcade I/O HTTP Server**.
-3. *(Optional but recommended)* Create a desktop shortcut to `Play-x86-64.exe` for convenience.
+
 
 ---
 
@@ -82,7 +81,7 @@ Animal Kaiser Playable/
 
 1. Locate the `Card Scanner/` folder.
 2. Copy the entire folder to a convenient location (e.g. `Documents\Card Scanner\`).
-3. *(Optional)* Create a desktop shortcut to `AKCardScanner.exe`.
+
 
 > The [AK Card Scanner](https://github.com/Gama-Tech/AK-Card-Scanner-Releases) communicates with Play! via the Arcade I/O HTTP Server to simulate card scans.
 
