@@ -64,8 +64,8 @@ Animal Kaiser Playable/
    - `akaiser`
    - `akaievo`
 3. Copy the ROM files from the `ROMS/` folder into the corresponding folders:
-   - Copy `kp005a_ana1004-na-b.ic26` → `arcaderoms/kaiser/`
-   - Copy `kp012b_k9k8g08u0b.ic31` → `arcaderoms/kaievo/`
+   - Copy `kp005a_ana1004-na-b.ic26` → `arcaderoms/akaiser/`
+   - Copy `kp012b_k9k8g08u0b.ic31` → `arcaderoms/akaievo/`
    - The `.zip` files (`akaiser.zip`, `akaievo.zip`) should also be copied to the respective     `arcaderoms/` subfolders alongside the `.ic26`/`.ic31` files.
 
 ---
